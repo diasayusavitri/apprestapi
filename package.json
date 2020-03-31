@@ -1,0 +1,25 @@
+{
+  "name": "apprestapi",
+  "version": "1.0.0",
+  "description": "aplikasi rest api",
+  "main": "index.js",
+  "scripts": {
+    "test": "https://github.com/diasayusavitri/apprestapi.git"
+  },
+  "author": "Dias",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diasayusavitri/apprestapi.git"
+  },
+  "keywords": [
+    "rest",
+    "api",
+    "node",
+    "js"
+  ],
+  "bugs": {
+    "url": "https://github.com/diasayusavitri/apprestapi/issues"
+  },
+  "homepage": "https://github.com/diasayusavitri/apprestapi#readme"
+}
